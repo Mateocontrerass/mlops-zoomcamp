@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/02-experiment_tracking/homework/data/mlruns/0/c9a389168f9548458c03ee1a0a4c8d46/artifacts
+end_time: 1748316021319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9a389168f9548458c03ee1a0a4c8d46
+run_name: indecisive-fawn-320
+run_uuid: c9a389168f9548458c03ee1a0a4c8d46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748315959912
+status: 3
+tags: []
+user_id: Mateo

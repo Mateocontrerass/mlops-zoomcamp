@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/02-experiment_tracking/homework/data/mlruns/0/f4da9745d8994c16b1a738b0a7eb59dd/artifacts
+end_time: 1748315073047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4da9745d8994c16b1a738b0a7eb59dd
+run_name: casual-owl-897
+run_uuid: f4da9745d8994c16b1a738b0a7eb59dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748315050339
+status: 4
+tags: []
+user_id: Mateo

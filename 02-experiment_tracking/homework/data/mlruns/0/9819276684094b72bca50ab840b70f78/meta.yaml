@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/02-experiment_tracking/homework/data/mlruns/0/9819276684094b72bca50ab840b70f78/artifacts
+end_time: 1748313830456
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9819276684094b72bca50ab840b70f78
+run_name: big-doe-269
+run_uuid: 9819276684094b72bca50ab840b70f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748313483648
+status: 4
+tags: []
+user_id: Mateo

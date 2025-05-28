@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/02-experiment_tracking/homework/data/mlruns/0/260aadd362e741caa3384af5c35908cb/artifacts
+end_time: 1748315880463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 260aadd362e741caa3384af5c35908cb
+run_name: dashing-bee-529
+run_uuid: 260aadd362e741caa3384af5c35908cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748315860543
+status: 4
+tags: []
+user_id: Mateo

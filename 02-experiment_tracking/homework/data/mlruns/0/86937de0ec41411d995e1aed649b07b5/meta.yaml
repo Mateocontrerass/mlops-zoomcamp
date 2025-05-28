@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/02-experiment_tracking/homework/data/mlruns/0/86937de0ec41411d995e1aed649b07b5/artifacts
+end_time: 1748314857236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86937de0ec41411d995e1aed649b07b5
+run_name: whimsical-lynx-792
+run_uuid: 86937de0ec41411d995e1aed649b07b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748314815895
+status: 4
+tags: []
+user_id: Mateo
