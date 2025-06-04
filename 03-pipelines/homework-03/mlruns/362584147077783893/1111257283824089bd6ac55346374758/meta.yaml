@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/03-pipelines/homework-03/mlruns/362584147077783893/1111257283824089bd6ac55346374758/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '362584147077783893'
+lifecycle_stage: active
+run_id: 1111257283824089bd6ac55346374758
+run_name: upset-mink-349
+run_uuid: 1111257283824089bd6ac55346374758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748996699248
+status: 1
+tags: []
+user_id: Mateo

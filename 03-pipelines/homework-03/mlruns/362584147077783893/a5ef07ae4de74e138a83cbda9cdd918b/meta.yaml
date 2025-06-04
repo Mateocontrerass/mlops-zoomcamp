@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/03-pipelines/homework-03/mlruns/362584147077783893/a5ef07ae4de74e138a83cbda9cdd918b/artifacts
+end_time: 1748996368267
+entry_point_name: ''
+experiment_id: '362584147077783893'
+lifecycle_stage: active
+run_id: a5ef07ae4de74e138a83cbda9cdd918b
+run_name: capricious-fox-287
+run_uuid: a5ef07ae4de74e138a83cbda9cdd918b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748996365614
+status: 3
+tags: []
+user_id: Mateo
