@@ -1,6 +1,0 @@
-artifact_location: file:///c:/Users/Mateo/OneDrive/Documentos/github/mlops-zoomcamp/03-pipelines/homework-03/mlruns/362584147077783893
-creation_time: 1748996067549
-experiment_id: '362584147077783893'
-last_update_time: 1748996067549
-lifecycle_stage: active
-name: nyc-taxi-experiment

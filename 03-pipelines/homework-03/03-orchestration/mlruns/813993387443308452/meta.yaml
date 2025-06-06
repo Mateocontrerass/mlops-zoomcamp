@@ -1,0 +1,6 @@
+artifact_location: file:///home/mateo/ml-projects/mlops-course/03-orchestration/mlruns/813993387443308452
+creation_time: 1748999940957
+experiment_id: '813993387443308452'
+last_update_time: 1748999940957
+lifecycle_stage: active
+name: nyc-taxi-experiment
