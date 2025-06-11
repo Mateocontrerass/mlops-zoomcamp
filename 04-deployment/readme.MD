@@ -13,7 +13,7 @@ It covers the full process: environment setup, model packaging, API creation, co
 ```
 
 ├── predict.py        # Main Flask application
-├─── lin_reg.bin      # Trained ML model
+├── lin_reg.bin      # Trained ML model
 ├── test_flask.py     # Integration tests
 ├── Dockerfile        # Container configuration
 ├── Pipfile           # Python dependencies
@@ -27,7 +27,7 @@ It covers the full process: environment setup, model packaging, API creation, co
 
 1. **Clone and Build:**
 ```bash
-git clone https://github.com/yourusername/nyc-taxi-prediction
+git clone https://github.com/Mateocontrerass/mlops-zoomcamp/tree/main/04-deployment/web-service
 cd nyc-taxi-prediction
 docker build -t taxi-prediction:v1 .
 ```
