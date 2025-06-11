@@ -1,4 +1,4 @@
-# 🐳 NYC Taxi Duration Prediction Service
+# 🚕 NYC Taxi Duration Prediction Service
 
 This project demonstrates how to deploy a machine learning model as an online web service using Flask, Gunicorn, and Docker.  
 It covers the full process: environment setup, model packaging, API creation, containerization, and testing.
@@ -257,9 +257,6 @@ python test_flask.py
 ```
 
 The test should work exactly as before, but now it's hitting the containerized service.
-
----
-
 
 
 ---
