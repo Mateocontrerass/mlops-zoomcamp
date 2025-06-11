@@ -260,14 +260,7 @@ The test should work exactly as before, but now it's hitting the containerized s
 
 ---
 
-## Recommendations & Notes
 
-- **Version Control:** Always specify exact versions in `Pipfile` to ensure reproducibility
-- **Environment Variables:** Use them for configuration in production
-- **Logging:** Add proper logging in production deployments
-- **Health Checks:** Add an endpoint to monitor service health
-- **Security:** Review Flask security best practices
-- **Resource Limits:** Set container memory/CPU limits in production
 
 ---
 
