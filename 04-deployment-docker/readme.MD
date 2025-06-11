@@ -1,4 +1,4 @@
-# 🐳 NYC Taxi Duration Prediction Service
+# 🚕 NYC Taxi Duration Prediction Service
 
 This project demonstrates how to deploy a machine learning model as an online web service using Flask, Gunicorn, and Docker.  
 It covers the full process: environment setup, model packaging, API creation, containerization, and testing.
@@ -13,12 +13,12 @@ It covers the full process: environment setup, model packaging, API creation, co
 ```
 
 ├── predict.py        # Main Flask application
-├─── lin_reg.bin      # Trained ML model
-├── test_flask.py # Integration tests
-├── Dockerfile           # Container configuration
-├── Pipfile             # Python dependencies
-├── Pipfile.lock        # Locked dependencies
-└── README.md          # This documentation
+├── lin_reg.bin      # Trained ML model
+├── test_flask.py     # Integration tests
+├── Dockerfile        # Container configuration
+├── Pipfile           # Python dependencies
+├── Pipfile.lock      # Locked dependencies
+└── README.md         # This documentation
 ```
 
 
@@ -27,7 +27,7 @@ It covers the full process: environment setup, model packaging, API creation, co
 
 1. **Clone and Build:**
 ```bash
-git clone https://github.com/yourusername/nyc-taxi-prediction
+git clone https://github.com/Mateocontrerass/mlops-zoomcamp/tree/main/04-deployment/web-service
 cd nyc-taxi-prediction
 docker build -t taxi-prediction:v1 .
 ```
@@ -79,19 +79,7 @@ Response:
 - Python 3.12+
 - pipenv
 
-### Local Development
 
-1. **Set up environment:**
-````bash
-# Install dependencies
-pipenv install
-
-# Activate virtual environment
-pipenv shell
-
-# Run Flask development server
-python app/predict.py
-````
 
 
 ## Model Preparation
@@ -270,16 +258,6 @@ python test_flask.py
 
 The test should work exactly as before, but now it's hitting the containerized service.
 
----
-
-## Recommendations & Notes
-
-- **Version Control:** Always specify exact versions in `Pipfile` to ensure reproducibility
-- **Environment Variables:** Use them for configuration in production
-- **Logging:** Add proper logging in production deployments
-- **Health Checks:** Add an endpoint to monitor service health
-- **Security:** Review Flask security best practices
-- **Resource Limits:** Set container memory/CPU limits in production
 
 ---
 
