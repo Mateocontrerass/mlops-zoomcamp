@@ -14,11 +14,11 @@ It covers the full process: environment setup, model packaging, API creation, co
 
 ├── predict.py        # Main Flask application
 ├─── lin_reg.bin      # Trained ML model
-├── test_flask.py # Integration tests
-├── Dockerfile           # Container configuration
-├── Pipfile             # Python dependencies
-├── Pipfile.lock        # Locked dependencies
-└── README.md          # This documentation
+├── test_flask.py     # Integration tests
+├── Dockerfile        # Container configuration
+├── Pipfile           # Python dependencies
+├── Pipfile.lock      # Locked dependencies
+└── README.md         # This documentation
 ```
 
 
