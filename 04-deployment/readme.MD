@@ -79,19 +79,7 @@ Response:
 - Python 3.12+
 - pipenv
 
-### Local Development
 
-1. **Set up environment:**
-````bash
-# Install dependencies
-pipenv install
-
-# Activate virtual environment
-pipenv shell
-
-# Run Flask development server
-python app/predict.py
-````
 
 
 ## Model Preparation
